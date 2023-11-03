@@ -1,0 +1,13 @@
+button{
+    color: #4F6457
+}
+
+button:disabled{
+    opacity: 0.0;
+}
+
+.div-pagination{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

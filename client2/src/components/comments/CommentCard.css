@@ -1,0 +1,13 @@
+.comment-div{
+    min-height: 100px;
+    width: 100%;
+    color:#4F6457;
+    background-color: #ACD0C0;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px;
+    
+}
+

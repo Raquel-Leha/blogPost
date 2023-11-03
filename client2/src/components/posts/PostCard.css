@@ -1,0 +1,53 @@
+.post-card{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    background-color: #75b1a9;
+    flex-direction: column;
+    color: #4F6457;
+    
+}
+
+.container-img{
+
+    display: flex;
+    width: 100%;
+    height: 700px;
+    margin: 0 auto;
+    border-radius: 0.5%;
+    overflow: hidden;
+    justify-content: center;
+ 
+}
+
+.container-img img {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.container-title{
+
+    padding-top: 10px;
+    padding-bottom: 7px;
+    margin: 4px;
+    display: flex;
+    align-items: center;
+   
+
+}
+
+.container-text{
+    white-space: pre-line;
+    margin: 4px;
+    
+}
+
+.post-body{
+    display: none;
+}
+
+button:hover{
+    color: #ACD0C0;
+}

@@ -1,0 +1,58 @@
+.main-container{
+    padding: 80px;
+}
+
+.back-button{
+
+    color: #75b1a9;
+    margin-bottom: 15px;
+}
+
+.back-button:hover{
+    color:#acd0c0;
+}
+
+.container-details{
+    padding: 50px;
+    background-color: #acd0c0;
+    margin-bottom: 50px;
+    color: #4f6457;
+   
+
+}
+
+.sub-container-img{
+
+    display: flex;
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 0.5%;
+    overflow: hidden;
+    justify-content: center;
+
+
+}
+
+.sub-container-img img {
+    height: 100%;
+    width: 100%;
+}
+
+.container-title{
+
+    padding-top: 10px;
+    padding-bottom: 7px;
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.container-text{
+    white-space: pre-line;
+    margin: 4px;
+    
+}
